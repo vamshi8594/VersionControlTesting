@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Initial"
-        android:textSize="50dp"
+        android:textSize="80dp"
         android:textColor="#FFFFFF"
         android:id="@+id/initia"
         android:layout_alignParentTop="true"
